@@ -1,0 +1,10 @@
+.inner-container {
+  display: flex;
+  margin: 0 auto;
+}
+.column {
+  margin: 0 35px 0 35px;
+}
+li {
+  list-style: none;
+}
